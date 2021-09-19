@@ -1,5 +1,4 @@
-# Project title
-Whatcha Watchin?
+#Whatcha Watchin? A tool to keep track of... whatcha watchin
 
 ## What and why?
 Most of us consume media recreationally, but it seems like the more we consume it, the more that already boundless pool expands. What have I already seen, and what have I dropped? When did I watch it, and what did I think of it? What new (or old) movies or shows look interesting, and how can I keep track of them? Whatcha Watchin (working title, somewhat tacky I know) aims to be a web application that helps its user keep track of the answers to all those questions, helping them develop a collection of their past, present, and future media consumption. Now we can at least document the time we've ~~wasted~~ invested!
